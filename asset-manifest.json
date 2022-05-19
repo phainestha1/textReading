@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textReading/static/css/main.26812a62.css",
+    "main.js": "/textReading/static/js/main.74acb4b5.js",
+    "index.html": "/textReading/index.html",
+    "main.26812a62.css.map": "/textReading/static/css/main.26812a62.css.map",
+    "main.74acb4b5.js.map": "/textReading/static/js/main.74acb4b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26812a62.css",
+    "static/js/main.74acb4b5.js"
+  ]
+}
