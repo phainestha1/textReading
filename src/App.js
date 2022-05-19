@@ -8,9 +8,11 @@ const App = () => {
 
   return (
     <Container>
+      {/* Text Input */}
       <Left>
         <ContentsInputSection setPreview={setPreview} preview={preview} />
       </Left>
+      {/* Preview */}
       <Right>
         <ContentsPreviewSection preview={preview} />
       </Right>
