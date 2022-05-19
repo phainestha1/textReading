@@ -29,11 +29,13 @@ const Title = styled.h1`
     from {
       margin-left: 100%;
       width: 300%;
+      opacity: 0;
     }
 
     to {
       margin-left: 0%;
       width: 100%;
+      opacity: 1;
     }
   }
 `;

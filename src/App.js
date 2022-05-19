@@ -22,7 +22,7 @@ export default App;
 
 const Container = styled.div`
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   width: 100vw;
   height: 100vh;
