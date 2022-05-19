@@ -20,14 +20,15 @@ export const makeTitle = (text) => {
 const Title = styled.h1`
   font-size: 50px;
   font-weight: 900;
+  margin: 2% 0;
 
-  animation-duration: 3s;
+  animation-duration: 1.5s;
   animation-name: slidein;
   animation-iteration-count: infinite;
 
   @keyframes slidein {
     from {
-      margin-left: 100%;
+      margin-left: 15%;
       width: 300%;
       opacity: 0;
     }
